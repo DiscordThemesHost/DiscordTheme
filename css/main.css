@@ -97,7 +97,7 @@ body *, .userPopout-3XzG_A * {
 .wordmarkWindows-1v0lYD::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://raw.githack.com/DiscordThemesHost/DiscordTheme/main/svg/Discord-Logo-White.svg");
+  -webkit-mask-image: url("https://raw.githack.com/DiscordThemesHost/DiscordTheme/main/svg/FVE-image.svg");
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
