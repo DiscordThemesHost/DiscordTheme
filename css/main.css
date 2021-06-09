@@ -97,7 +97,8 @@ body *, .userPopout-3XzG_A * {
 .wordmarkWindows-1v0lYD::after {
   content: '';
   display: inline-block;
-  -webkit-mask-image: url("https://raw.githack.com/DiscordThemesHost/DiscordTheme/main/svg/FVE-image.svg");
+  -webkit-mask-image: url("https://raw.githack.com/DiscordThemesHost/DiscordTheme/main/svg/titleimage2.svg");
+   
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-size: cover;
   background-color: var(--highlight);
@@ -451,3 +452,5 @@ body *, .userPopout-3XzG_A * {
 .theme-dark .footer-2gL1pp {
   background-color: var(--background);
 }
+
+ 
